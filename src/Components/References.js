@@ -55,7 +55,7 @@ class References extends Component {
                                     <span className='about-highlight'>
                                         {` `}
                                         <span className='highlight1-background highlight-background active'></span>
-                                            {`[Erik Ralston, Cheif Architect]`}
+                                            {`[Erik Ralston, Chief Architect]`}
                                         {` `}
                                     </span>
                                 </p>
