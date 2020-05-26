@@ -355,6 +355,13 @@ table {
 
 .project-link {
   margin: 0.2rem;
+  color: #444444;
+  text-decoration: underline;
+}
+
+.project-link:hover {
+  color: #444444;
+  text-decoration: underline;
 }
 
 /* References */
